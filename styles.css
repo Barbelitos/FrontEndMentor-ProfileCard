@@ -59,11 +59,11 @@ body {
 
 .card_location {
     color: hsl(0, 0%, 59%);
-    margin: .3em auto 2em auto;
+    margin: .3em auto 1em auto;
 }
 
 hr.card_divider {
-    border-top: 0.2px solid hsl(0, 13%, 92%);
+    border-top: 0.2px solid hsl(0, 16%, 91%);
     border-bottom: none;
 }
 
