@@ -85,14 +85,14 @@ hr.card_divider {
     letter-spacing: .1em;
 }
 
-/* .attribution { 
+.attribution { 
     font-size: 11px; 
     text-align: center; 
 }
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
-} */
+}
 
 /* MEDIA QUERIES */
 
@@ -101,13 +101,11 @@ hr.card_divider {
         position: fixed;
         left: -210%;
         top: -80%;
-    
     }
     
     .bg_bottom {
         position: fixed;
         bottom: -80%;
         right: -210%;
-    
     }
 }
